@@ -1,0 +1,30 @@
+{
+  "name": "Sekiury Legal - Entrevista Inicial",
+  "short_name": "Sekiury Legal",
+  "description": "Formulario de entrevista inicial para casos de derecho de familia colombiano",
+  "start_url": "/sekiury-intake/",
+  "scope": "/sekiury-intake/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1e3460",
+  "theme_color": "#2F4D8A",
+  "lang": "es",
+  "categories": [
+    "business",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
